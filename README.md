@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning iFogSim
 - 💞️ I’m looking to collaborate on iot and cloud computing
-- 📫 You reach me just by sending an email:sachendrac@gmail.com
+- 📫 You can reach me just by sending an email:sachendrac@gmail.com
 
 <!---
 sachendrac/sachendrac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
